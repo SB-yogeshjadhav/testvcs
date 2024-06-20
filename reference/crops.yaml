@@ -4,7 +4,7 @@ x-stoplight:
 info:
   title: crops
   version: '1.0'
-  description: Sugarcane test
+  description: Sugarcane test by github
 servers:
   - url: 'http://localhost:3000'
 paths:
